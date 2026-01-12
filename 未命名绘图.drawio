@@ -1,9 +1,139 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="29.2.9">
   <diagram name="第 1 页" id="KbrLJoBzpMIyuS--EuhL">
-    <mxGraphModel>
+    <mxGraphModel dx="1733" dy="1124" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="-DAvjEoFEYjkdN5VZoXb-75" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="原始起点 V1.0" vertex="1">
+          <mxGeometry height="54" width="161" x="527" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-DAvjEoFEYjkdN5VZoXb-76" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="基于初始PICOS表格&#xa;检索结果: 约2000篇&#xa;问题: 漏检严重" vertex="1">
+          <mxGeometry height="102" width="200" x="507" y="124" as="geometry" />
+        </mxCell>
+        <mxCell id="-DAvjEoFEYjkdN5VZoXb-77" parent="1" style="rhombus;strokeWidth=2;whiteSpace=wrap;" value="人工提供的&#xa;具体纳排案例" vertex="1">
+          <mxGeometry height="174" width="174" x="520" y="276" as="geometry" />
+        </mxCell>
+        <mxCell id="-DAvjEoFEYjkdN5VZoXb-78" parent="1" style="rounded=1;arcSize=20;strokeWidth=2" value="痛点: V1.0只含定性研究&#xa;漏掉量化调查" vertex="1">
+          <mxGeometry height="78" width="201" x="46" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="-DAvjEoFEYjkdN5VZoXb-79" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="动作 1: 扩展研究设计&#xa;加入 Survey, Questionnaire" vertex="1">
+          <mxGeometry height="78" width="252" x="20" y="712" as="geometry" />
+        </mxCell>
+        <mxCell id="-DAvjEoFEYjkdN5VZoXb-80" parent="1" style="rounded=1;arcSize=20;strokeWidth=2" value="痛点: V1.0未包含综述&#xa;漏掉循证证据" vertex="1">
+          <mxGeometry height="78" width="185" x="360" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="-DAvjEoFEYjkdN5VZoXb-81" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="动作 2: 扩展文章类型&#xa;加入 Systematic Review, Meta-Analysis" vertex="1">
+          <mxGeometry height="102" width="260" x="322" y="700" as="geometry" />
+        </mxCell>
+        <mxCell id="-DAvjEoFEYjkdN5VZoXb-82" parent="1" style="rounded=1;arcSize=20;strokeWidth=2" value="痛点: V1.0使用 impact 等泛词&#xa;噪音大且漏具体症状" vertex="1">
+          <mxGeometry height="102" width="230" x="647" y="548" as="geometry" />
+        </mxCell>
+        <mxCell id="-DAvjEoFEYjkdN5VZoXb-83" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="动作 3: 精准结局替换&#xa;删除泛词, 加入 itch, fatigue, sleep" vertex="1">
+          <mxGeometry height="102" width="260" x="632" y="700" as="geometry" />
+        </mxCell>
+        <mxCell id="-DAvjEoFEYjkdN5VZoXb-84" parent="1" style="rounded=1;arcSize=20;strokeWidth=2" value="痛点: 检索出很多&#xa;无结果方案或管理类文章" vertex="1">
+          <mxGeometry height="78" width="206" x="969" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="-DAvjEoFEYjkdN5VZoXb-85" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="动作 4: 增强排除逻辑&#xa;NOT Protocol, Validation, Management" vertex="1">
+          <mxGeometry height="102" width="260" x="942" y="700" as="geometry" />
+        </mxCell>
+        <mxCell id="-DAvjEoFEYjkdN5VZoXb-86" parent="1" style="rounded=1;arcSize=20;strokeWidth=2" value="最终迭代 V2.0" vertex="1">
+          <mxGeometry height="54" width="131" x="542" y="852" as="geometry" />
+        </mxCell>
+        <mxCell id="-DAvjEoFEYjkdN5VZoXb-87" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="平衡版检索式&#xa;检索结果: 约6000篇&#xa;特点: 覆盖全, 噪音低" vertex="1">
+          <mxGeometry height="102" width="209" x="503" y="956" as="geometry" />
+        </mxCell>
+        <mxCell id="-DAvjEoFEYjkdN5VZoXb-88" edge="1" parent="1" source="-DAvjEoFEYjkdN5VZoXb-75" style="curved=1;startArrow=none;endArrow=none;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" target="-DAvjEoFEYjkdN5VZoXb-76" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-DAvjEoFEYjkdN5VZoXb-89" edge="1" parent="1" source="-DAvjEoFEYjkdN5VZoXb-76" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" target="-DAvjEoFEYjkdN5VZoXb-77" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-DAvjEoFEYjkdN5VZoXb-90" edge="1" parent="1" source="-DAvjEoFEYjkdN5VZoXb-77" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.65;entryX=0.5;entryY=0;rounded=0;" target="-DAvjEoFEYjkdN5VZoXb-78" value="纳入案例: Pruritus Survey">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="146" y="499" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-DAvjEoFEYjkdN5VZoXb-91" edge="1" parent="1" source="-DAvjEoFEYjkdN5VZoXb-78" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" target="-DAvjEoFEYjkdN5VZoXb-79" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-DAvjEoFEYjkdN5VZoXb-92" edge="1" parent="1" source="-DAvjEoFEYjkdN5VZoXb-77" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.94;entryX=0.5;entryY=0;rounded=0;" target="-DAvjEoFEYjkdN5VZoXb-80" value="纳入案例: Depression Meta-analysis">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="452" y="499" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-DAvjEoFEYjkdN5VZoXb-93" edge="1" parent="1" source="-DAvjEoFEYjkdN5VZoXb-80" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" target="-DAvjEoFEYjkdN5VZoXb-81" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-DAvjEoFEYjkdN5VZoXb-94" edge="1" parent="1" source="-DAvjEoFEYjkdN5VZoXb-77" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.94;entryX=0.5;entryY=0;rounded=0;" target="-DAvjEoFEYjkdN5VZoXb-82" value="纳入案例: Pruritus, Fatigue">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="762" y="499" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-DAvjEoFEYjkdN5VZoXb-95" edge="1" parent="1" source="-DAvjEoFEYjkdN5VZoXb-82" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" target="-DAvjEoFEYjkdN5VZoXb-83" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-DAvjEoFEYjkdN5VZoXb-96" edge="1" parent="1" source="-DAvjEoFEYjkdN5VZoXb-77" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.65;entryX=0.5;entryY=0;rounded=0;" target="-DAvjEoFEYjkdN5VZoXb-84" value="排除案例: Protocol, Management">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1072" y="499" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-DAvjEoFEYjkdN5VZoXb-97" edge="1" parent="1" source="-DAvjEoFEYjkdN5VZoXb-84" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" target="-DAvjEoFEYjkdN5VZoXb-85" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-DAvjEoFEYjkdN5VZoXb-98" edge="1" parent="1" source="-DAvjEoFEYjkdN5VZoXb-79" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0.36;rounded=0;" target="-DAvjEoFEYjkdN5VZoXb-86" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="146" y="827" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-DAvjEoFEYjkdN5VZoXb-99" edge="1" parent="1" source="-DAvjEoFEYjkdN5VZoXb-81" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0.09;rounded=0;" target="-DAvjEoFEYjkdN5VZoXb-86" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="452" y="827" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-DAvjEoFEYjkdN5VZoXb-100" edge="1" parent="1" source="-DAvjEoFEYjkdN5VZoXb-83" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=1;entryY=0.09;rounded=0;" target="-DAvjEoFEYjkdN5VZoXb-86" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="762" y="827" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-DAvjEoFEYjkdN5VZoXb-101" edge="1" parent="1" source="-DAvjEoFEYjkdN5VZoXb-85" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=1;entryY=0.36;rounded=0;" target="-DAvjEoFEYjkdN5VZoXb-86" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1072" y="827" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-DAvjEoFEYjkdN5VZoXb-102" edge="1" parent="1" source="-DAvjEoFEYjkdN5VZoXb-86" style="curved=1;startArrow=none;endArrow=none;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" target="-DAvjEoFEYjkdN5VZoXb-87" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
